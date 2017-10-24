@@ -1,0 +1,2 @@
+# GMcorp
+GitHub Pages

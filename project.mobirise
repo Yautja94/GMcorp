@@ -711,7 +711,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/gmcor-3-1600x1080.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -725,7 +725,8 @@
                 "contentAlign": "center",
                 "text": "\"Cumplimos con los índices más altos de calidad con nuestros productos y nuestra gente, en beneficio de la sociedad.\"",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5"
+                "overlayOpacity": "0.4",
+                "overlayColor": "#232323"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/1156-1600x900.jpg",
@@ -743,7 +744,8 @@
                 "contentAlign": "left",
                 "text": "<br>El cuidado de tu motor logra un alto desempeño<br>en la vida útil de tu vehículo.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5"
+                "overlayOpacity": "0.3",
+                "overlayColor": "#232323"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/gmcor2-1600x1080.png",
@@ -756,11 +758,12 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b>SERVICIOS AUTOMORICES</b><br><br>",
+                "title": "<b>SERVICIOS AUTOMOTRICES</b><br><br>",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Mecánica en general, venta de llantas para vehículos, alineación y balanceo,<br>suspensión, frenos, amortiguadores, cambio de aceite, <br>montajes y afinación.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/gmcor3-1600x1080.png",
@@ -778,7 +781,7 @@
                 "contentAlign": "center",
                 "text": "Tenemos para ti una gran variedad de equipos de computo, <br>impresoras, tablets y consumibles ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/itslide-2-1600x1080.png",
@@ -796,11 +799,11 @@
                 "contentAlign": "center",
                 "text": "CFDI Comprobante Fiscal Digital por Internet<br>Telefonía Analógica e IP \n<br>Televisión\n<br>Cable Estructurado Y Fibra Óptica \n<br>Control de Acceso y Vídeo Porteros \n<br>Sonido y Voceo \n<br>Redes Inalámbricas y Radiocomunicación",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/gmcor4-1-1600x1080.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -814,7 +817,7 @@
                 "contentAlign": "center",
                 "text": "Venta e Instalación de<br>Calentadores Solares&nbsp;y Sistemas de Energía Solar<br>Interconectado a la<br>Red",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5"
+                "overlayOpacity": "0.3"
               }
             ]
           }
